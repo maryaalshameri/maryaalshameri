@@ -18,7 +18,7 @@
 - 🌱 Learning more about **Node.js & RESTful APIs**
 - 🎯 Goal: Craft meaningful digital experiences that inspire and connect people.
 - 💬 Ask me about **Frontend, Backend, UX/UI, or Web Design**
-- 📫 Reach me at: [**your.email@example.com**](mailto:your.email@example.com)
+- 📫 Reach me at: [**your.email@example.com**](mailto:marynaalshameri@example.com)
 - 🌍 Portfolio: [**your-portfolio-link.com**](#)  
 - ⚡ Fun fact: I love coffee ☕, code 💻, and creativity 🎨!
 
@@ -66,7 +66,7 @@
 
 ### 🩵 Connect With Me | تواصل معي
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:marynaalshameri@gmail.com"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/MaryaAlshameri"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-bf7af0?style=for-the-badge&logo=firefox&logoColor=white"></a>
