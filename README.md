@@ -18,7 +18,7 @@
 - 🌱 Learning more about **Node.js & RESTful APIs**
 - 🎯 Goal: Craft meaningful digital experiences that inspire and connect people.
 - 💬 Ask me about **Frontend, Backend, UX/UI, or Web Design**
-- 📫 Reach me at: [**your.email@example.com**](mailto:marynaalshameri@example.com)
+- 📫 Reach me at: [**marynaalshameri@gmail.com**](mailto:marynaalshameri@gmail.com)
 - 🌍 Portfolio: [**your-portfolio-link.com**](#)  
 - ⚡ Fun fact: I love coffee ☕, code 💻, and creativity 🎨!
 
